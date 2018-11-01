@@ -1,0 +1,194 @@
+body{
+  background: url('../images/utah\ mountains.jpg');
+  background-size: cover;
+  /* background-repeat: no-repeat; */
+  /* background-position: center; */
+  width: 95vw;
+  height: 95.5vh;
+}
+.wrapper{
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 10px;
+}
+#name{
+text-align: center;
+font-size: 50px;
+}
+#jwd{
+text-align: center;
+font-size: 20px;
+}
+#roundimg{
+    display: flex;
+    justify-content: center;
+}
+#pic{
+    width: 35%;
+    height: 35%;
+    border: 1px solid grey;
+    border-radius: 50%;
+}
+#abtpar{
+    /* margin-top: 5%; */
+    position: absolute;
+    font-size: 20px;
+    column-count: 2;
+    width: 60%;
+    left: 20%;
+}
+.icons{
+    width: 17%;
+    height: 15%;
+}
+#react{
+    width: 21%;
+    height: 23%;
+}
+#redux{
+    width: 21%;
+}
+#css3{
+    width: 17.1%;
+    height: 15%;
+}
+#jsicon{
+    width: 20.5%;
+}
+#nodejs{
+    width: 22%;
+    margin-bottom: 8%;
+}
+#spacing{
+    margin-left: 2%;
+}
+#top img{
+    margin: 0% 4% 2% 1%;
+}
+#bot img{
+    margin-left:1%;
+    margin-right:2%;
+}
+#express{
+    margin-left: 3%;
+    margin-right: 4%;
+width: 52.3%;
+}
+#massive{
+width: 35%;
+}
+#spacing h3{
+    display: inline;
+}
+#reat{
+margin-left: 9%;
+}
+#redt{
+margin-left: 20.5%;
+}
+#csst{
+margin-left: 19.3%;
+}
+#htmlt{
+margin-left: 16.5%;
+}
+#postgres{
+width: 20%;
+}
+#git{
+width: 20%;
+}
+#jst{
+margin-left: 7%;
+}
+#nodet{
+margin-left: 20%;
+}
+#postt{
+margin-left: 13.3%;
+}
+#gitt{
+margin-left: 16.3%;
+}
+#info{
+    text-align: center;
+}
+#projects{
+    /* width: 100vw; */
+    text-align: center;
+}
+#projects h1{
+    font-size: 50px;
+}
+#projects p{
+    margin: auto;
+    /* width: 15%; */
+    font-size: 150%;
+}
+#repo{
+    margin-top: -20%;
+}
+#recImgs{
+    /* width: 100%; */
+    margin-left: 10%;
+}
+#recImgs img{
+    display: inline-flex;
+    width: 30%;
+}
+#recImgs h3{
+    display: inline;
+}
+#loadt{
+margin-left: 9%;
+}
+#landingt{
+margin-left: 20%;
+}
+#scrollt{
+margin-left: 18%;
+}
+#bott{
+    color: white;
+}
+#samplest{
+margin-left: 10%;
+}
+#filtert{
+margin-left: 11.5%;
+}
+#profilet{
+margin-left: 8%;
+}
+#homet{
+margin-left: 12%
+}
+#logint{
+margin-left: 22%;
+}
+#dropt{
+margin-left: 20%;
+}
+#productt{
+margin-left: 11%;
+}
+#snackt{
+margin-left: 18%;
+}
+#cartt{
+margin-left: 20%;
+}
+    /* https://static.wixstatic.com/media/0bb83114d47e4ca0a9fa5a9ea6a16530.jpg/v1/fill/w_1920,h_1280,al_c,q_85,usm_0.66_1.00_0.01/0bb83114d47e4ca0a9fa5a9ea6a16530.webp */
